@@ -21,9 +21,9 @@ Backend Developer focused on building reliable, scalable, and maintainable backe
 - MySQL
 - SQL Server
 
-**Infrastructure & Messaging**
-- Redis
+**Messaging & Infrastructure**
 - Apache Kafka
+- Redis
 - Docker
 - OpenShift
 
@@ -39,16 +39,31 @@ Backend Developer focused on building reliable, scalable, and maintainable backe
 
 ---
 
+## 💡 What I Work With
+
+- Backend development with Java & Spring Boot
+- RESTful API design and integration
+- Microservices architecture
+- Database design and optimization
+- Distributed messaging with Kafka
+- Caching with Redis
+- Containerized applications with Docker
+- Enterprise and financial systems
+
+---
+
 ## 📚 Currently Learning
 
 - System Design
 - Microservices Architecture
 - Cloud & DevOps
-- Networking
 - Advanced Spring Boot
+- Computer Networking
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: [@NongDucManh](https://github.com/NongDucManh)
+I'm interested in backend engineering, distributed systems, financial technology, and building reliable software.
+
+[![GitHub](https://img.shields.io/badge/GitHub-NongDucManh-181717?style=flat&logo=github)](https://github.com/NongDucManh)
