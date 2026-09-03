@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Nong Duc Manh 👋
 
-<!--
-**NongDucManh/NongDucManh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Spring Boot | Microservices
 
-Here are some ideas to get you started:
+Backend Developer focused on building reliable, scalable, and maintainable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Data JPA
+- MyBatis
+- REST API
+- Microservices
+
+**Database**
+- Oracle
+- MySQL
+- SQL Server
+
+**Infrastructure & Messaging**
+- Redis
+- Apache Kafka
+- Docker
+- OpenShift
+
+**Frontend**
+- React
+- Angular
+- Vue.js
+
+**Tools**
+- Git
+- Postman
+- Splunk
+
+---
+
+## 📚 Currently Learning
+
+- System Design
+- Microservices Architecture
+- Cloud & DevOps
+- Networking
+- Advanced Spring Boot
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@NongDucManh](https://github.com/NongDucManh)
